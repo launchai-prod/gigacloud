@@ -1,0 +1,6 @@
+System,Module,Vendor,Go‑Live,# Licenses,Renewal Date,Notes
+ERP,Finance/HR,SAP S/4HANA,Jan 2022,200,Dec 2025,"Implemented pilot in CN, global roll‑out 2023"
+CRM,Sales,Salesforce Sales Cloud,Mar 2021,150,Mar 2024,"Renewal in process"
+WMS,Warehouse Mgmt,Custom (GigaCloud Dev),Jun 2023,80,N/A,"Integrates with SAP via API"
+Analytics,BI/Qlik,QlikSense,Sep 2020,50,Sep 2024,"Data warehouse on AWS"
+E‑Commerce,Platform,GigaCloud Platform,Jan 2019,–,–,"In‑house, continuous updates"
